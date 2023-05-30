@@ -2,7 +2,7 @@
 ## Sobre mim
 
 
-- 👋 Olá, meu nome é **RoneCalisctil**, sou professor das Disciplinas de Pensamento Computacional e Matemática II (PROGRAMAÇÃO I); Professor no projeto EDUTECH -GAMES E PROGRAMAÇÃO da SEED/PR
+- 👋 Olá, meu nome é **RoneCalisctil**, sou professor das Disciplinas de Pensamento Computacional e Matemática II (PROGRAMAÇÃO I); Professor no projeto da SEED/PR "EDUTECH -GAMES E PROGRAMAÇÃO."
 - 👋 Meu e-mail de contato profissional é ronecalisctil@escola.pr.gov.br 
 - 👀 Estou interessado em ensinar linguagens de programação, criar e desenvolver projetos com meus alunos e me aprofundar em Phyton
 - 📫 Recentemente estou ensinando Linguagem de programção Scratch e desenvolvimento web em HTML5, Javascript e CSS3.
